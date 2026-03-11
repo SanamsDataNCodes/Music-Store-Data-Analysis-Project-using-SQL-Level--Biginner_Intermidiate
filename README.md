@@ -59,9 +59,6 @@ The main goal of this project is to answer business questions such as:
 Possible database systems used:
 
 * PostgreSQL
-* SQLite
-* MySQL
-* SQL Server
 
 ---
 
